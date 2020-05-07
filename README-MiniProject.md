@@ -1,3 +1,4 @@
+# COS 301 Mini Project Contribution
 <details>
      <summary><b>What I Did </b></summary>
      <br>
