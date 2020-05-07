@@ -1,12 +1,16 @@
-# My-Profile
+# My Profile
 
 ## Isobel Bosman
 
 ### Work Experience
-[2018 - Present] BSc Computer Science
+[2018 - Present] BSc Computer Science (Student)
 
-#### Unordered list (*)
+### Soft Skills 
 
-* Item A
-* Item B
-* Item C
+* Problem Solving
+* Teamwork
+* Flexibility
+* Communication
+* Self Management
+
+## Technical Skills
