@@ -22,3 +22,6 @@
   MySQL, MS Access
 * **Research and Planning:**\
   Identifying Problems, Gather Information, Developing Evaluations, Calculating Results
+
+### Contact Information:
+* u18020519@tuks.co.za
