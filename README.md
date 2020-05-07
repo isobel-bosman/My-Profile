@@ -1,6 +1,6 @@
 #  My Profile
 
-##  Isobel Bosman
+##  <div> Isobel Bosman </div>
 
 ### Education
 [2018 - Present] BSc Computer Science (Student) at the University of Pretoria
