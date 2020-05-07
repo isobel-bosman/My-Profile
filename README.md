@@ -21,4 +21,4 @@
 * **Database Management:**\
   MySQL, MS Access
 * **Research and Planning:**\
-  Identifying Problems, Gather Information, Developing Evaluations,Calculating Results
+  Identifying Problems, Gather Information, Developing Evaluations, Calculating Results
