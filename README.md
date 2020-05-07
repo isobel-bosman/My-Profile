@@ -2,7 +2,7 @@
 
 ##  Isobel Bosman
 
-### Work Experience
+### Education
 [2018 - Present] BSc Computer Science (Student) at the University of Pretoria
 
 ### Soft Skills 
