@@ -1,10 +1,16 @@
-# COS 301 Mini Project Contribution
+## COS 301 Mini Project Contribution
 <details>
      <summary><b>What I Did </b></summary>
      <br>
-        Unit Tests
+        Update.php functions: AddMouthpack, DeleteMouthpack, UpdateProfileImage.
         <br>
-        Integration Tests
+        Update Controllers for adding and deleting mouthpacks as well as updating the profile image.
         <br>
-        Docker set up
+        Unit testing in Postman for the update functions.
+        <br>
+        Helped create the dummy testing page for demonstrating purposes.
+        <br>
+        Allocation of tasks in clickup as well as setting up meetings with the team.
+        <br> 
+        Handled communication with the integration team.  
         </details>
