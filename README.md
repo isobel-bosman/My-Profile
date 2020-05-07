@@ -1,6 +1,6 @@
-  # My Profile
+#  My Profile
 
-  ## Isobel Bosman
+##  Isobel Bosman
 
 ### Work Experience
 [2018 - Present] BSc Computer Science (Student) at the University of Pretoria
