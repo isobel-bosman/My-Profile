@@ -1,6 +1,6 @@
-#  My Profile<\br>
+#  My Profile
 
-##  Isobel Bosman\
+##  Isobel Bosman
 
 ### Work Experience
 [2018 - Present] BSc Computer Science (Student) at the University of Pretoria
@@ -14,11 +14,11 @@
 * Self Management
 
 ### Technical Skills
-* **Languages:**
+* **Languages:**\
   C++, Java, PHP, JavaScript, HTML, CSS, NodeJS
-* **Tools:**
+* **Tools:**\
   IntelliJ IDEA, PhpStorm, Visual Sudio Code, Postman, Scite Text Editor
-* **Database Management:**
+* **Database Management:**\
   MySQL, MS Access
-* **Research and Planning:**
+* **Research and Planning:**\
   Identifying Problems, Gather Information, Developing Evaluations,Calculating Results
