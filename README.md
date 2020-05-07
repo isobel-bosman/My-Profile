@@ -14,3 +14,11 @@
 * Self Management
 
 ### Technical Skills
+* **Languages:**
+  C++, Java, PHP, JavaScript, HTML, CSS, NodeJS
+* **Tools:**
+  IntelliJ IDEA, PhpStorm, Visual Sudio Code, Postman, Scite Text Editor
+* **Database Management:**
+  MySQL, MS Access
+* **Research and Planning:**
+  Identifying Problems, Gather Information, Developing Evaluations,Calculating Results
