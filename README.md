@@ -1,9 +1,9 @@
-# My Profile
+  # My Profile
 
-## Isobel Bosman
+  ## Isobel Bosman
 
 ### Work Experience
-[2018 - Present] BSc Computer Science (Student)
+[2018 - Present] BSc Computer Science (Student) at the University of Pretoria
 
 ### Soft Skills 
 
@@ -13,4 +13,4 @@
 * Communication
 * Self Management
 
-## Technical Skills
+### Technical Skills
