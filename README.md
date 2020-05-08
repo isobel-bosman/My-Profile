@@ -25,6 +25,9 @@ I am a diligent third year student studying BSc Computer Science at the Universi
   MySQL, MS Access
 * **Research and Planning:**\
   Identifying Problems, Gather Information, Developing Evaluations, Calculating Results
+  
+### Other Interests:
+When I'm not busy coding I enjoy playing video games, sketching, gardening and jogging.
 
 ### Contact Information:
-u18020519@tuks.co.za
+Email : u18020519@tuks.co.za
