@@ -27,7 +27,7 @@ I am a diligent third year student studying BSc Computer Science at the Universi
   Identifying Problems, Gather Information, Developing Evaluations, Calculating Results
   
 ### Other Interests:
-When I'm not busy coding I enjoy playing video games, sketching, gardening and jogging.
+When I'm not busy coding I enjoy playing video games, sketching, gardening and the occasional jogging.
 
 ### Contact Information:
 Email : u18020519@tuks.co.za
